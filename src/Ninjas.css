@@ -1,0 +1,8 @@
+body {
+    background: pink;
+    transition: all 1s;
+}
+
+form {
+    background: orange;
+}
